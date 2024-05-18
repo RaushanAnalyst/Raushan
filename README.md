@@ -1,3 +1,4 @@
+![image]()
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4ZnR2cmV6dnp4ZDZoYzJ0ZHZ2N2R2MmNreTV2aXlsZGVsZ3hwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
